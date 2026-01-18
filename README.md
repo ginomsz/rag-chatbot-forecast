@@ -6,6 +6,7 @@ colorTo: green
 sdk: gradio
 app_file: app.py
 pinned: false
+python_version: 3.12.3
 ---
 
 # 📈 RAG Forecast Chatbot
