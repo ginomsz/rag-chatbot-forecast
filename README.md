@@ -1,3 +1,11 @@
+title: Rag Forecast Chatbot
+emoji: 🤖
+colorFrom: blue
+colorTo: green
+sdk: gradio
+app_file: app.py
+pinned: false
+
 # 📈 RAG Forecast Chatbot
 
 This is a Retrieval-Augmented Generation (RAG) chatbot advisor specialized in **Forecasting and Time Series** topics for business and technical questions. 
