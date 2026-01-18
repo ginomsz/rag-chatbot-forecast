@@ -1,3 +1,4 @@
+---
 title: Rag Forecast Chatbot
 emoji: 🤖
 colorFrom: blue
@@ -5,6 +6,7 @@ colorTo: green
 sdk: gradio
 app_file: app.py
 pinned: false
+---
 
 # 📈 RAG Forecast Chatbot
 
