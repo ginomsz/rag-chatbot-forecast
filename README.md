@@ -8,7 +8,7 @@ sdk: gradio
 sdk_version: 5.1.0
 app_file: app.py
 pinned: false
-python_version: 3.11
+python_version: 3.12.3
 ---
 
 # 📈 RAG Forecast Chatbot
