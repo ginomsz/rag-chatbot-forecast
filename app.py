@@ -1130,7 +1130,7 @@ def launch_ui():
             scale=1,  # Component scale
             placeholder="<strong>Forecasting Master bot 🤖: A Question-Answering Bot for anything Forecasting-related</strong><br>",  # Placeholder text
             show_label=False,  # Do not show label
-            #show_copy_button=True,  # Show copy button
+            show_copy_button=True,  # Show copy button
         )
 
         # Chat interface
