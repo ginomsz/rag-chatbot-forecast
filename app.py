@@ -1127,6 +1127,7 @@ def launch_ui():
 
         # Chatbot component
         chatbot = gr.Chatbot(
+            type="messages",  # Message interface type
             scale=1,  # Component scale
             placeholder="<strong>Forecasting Master bot 🤖: A Question-Answering Bot for anything Forecasting-related</strong><br>",  # Placeholder text
             show_label=False,  # Do not show label
