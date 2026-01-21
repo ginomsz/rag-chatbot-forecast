@@ -3,7 +3,7 @@ title: Rag Forecast Chatbot
 emoji: 🤖
 colorFrom: blue
 colorTo: green
-sdk: gradio>=5.10.0
+sdk: gradio
 #sdk_version: 4.44.1
 sdk_version: 5.1.0
 app_file: app.py
