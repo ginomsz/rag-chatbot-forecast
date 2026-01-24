@@ -10,7 +10,7 @@ pinned: false
 python_version: 3.12.3
 ---
 
-# 📈 RAG Forecast Chatbot
+# 📈 RAG Chatbot Forecast
 
 This is a Retrieval-Augmented Generation (RAG) chatbot advisor specialized in **Forecasting and Time Series** topics for business and technical questions. 
 Built with LlamaIndex, ChromaDB, and OpenAI.
