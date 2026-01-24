@@ -58,7 +58,8 @@ __pycache__/
 venv/
 
 # Evaluation datasets and results (generated)
-*_results.csv
+rag_eval_dataset_results.csv
+rag_eval_dataset.json
 *_results.json
 
 # Metadata exports
