@@ -60,7 +60,6 @@ venv/
 # Evaluation datasets and results (generated)
 rag_eval_dataset_results.csv
 rag_eval_dataset.json
-*_results.json
 
 # Metadata exports
 metadata_documents_*.csv
